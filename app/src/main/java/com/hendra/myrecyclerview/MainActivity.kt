@@ -6,7 +6,6 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.hendra.myrecyclerview.HeroesData.HeroesData.listData
 
 class MainActivity : AppCompatActivity() {
     private lateinit var rvHeroes: RecyclerView
